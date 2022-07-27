@@ -1,0 +1,18 @@
+
+PMT 22 (gel) - PMT 25 (no gel) - PMT 2 - Run 1871 - Source at (1, 5) - 1000V - Trigger 15mV.
+PMT 22 (gel) - PMT 25 (no gel) - PMT 2 - Run 1872 - Source at (2, 5) - 1000V - Trigger 15mV.
+PMT 22 (gel) - PMT 25 (no gel) - PMT 2 - Run 1873 - Source at (3, 5) - 1000V - Trigger 15mV.
+PMT 22 (gel) - PMT 25 (no gel) - PMT 2 - Run 1874 - Source at (4, 5) - 1000V - Trigger 15mV.
+PMT 22 (gel) - PMT 25 (no gel) - PMT 2 - Run 1875 - Source at (5, 5) - 1000V - Trigger 15mV.
+PMT 22 (gel) - PMT 25 (no gel) - PMT 2 - Run 1876 - Source at (6, 5) - 1000V - Trigger 15mV.
+PMT 22 (gel) - PMT 25 (no gel) - PMT 2 - Run 1877 - Source at (7, 5) - 1000V - Trigger 15mV.
+PMT 22 (gel) - PMT 25 (no gel) - PMT 2 - Run 1878 - Source at (-7, 4) - 1000V - Trigger 15mV.
+PMT 22 (gel) - PMT 25 (no gel) - PMT 2 - Run 1879 - Source at (-6, 4) - 1000V - Trigger 15mV.
+PMT 22 (gel) - PMT 25 (no gel) - PMT 2 - Run 1880 - Source at (-5, 4) - 1000V - Trigger 15mV.
+PMT 22 (gel) - PMT 25 (no gel) - PMT 2 - Run 1881 - Source at (-4, 4) - 1000V - Trigger 15mV.
+PMT 22 (gel) - PMT 25 (no gel) - PMT 2 - Run 1882 - Source at (-3, 4) - 1000V - Trigger 15mV.
+PMT 22 (gel) - PMT 25 (no gel) - PMT 2 - Run 1883 - Source at (-2, 4) - 1000V - Trigger 15mV.
+PMT 22 (gel) - PMT 25 (no gel) - PMT 2 - Run 1884 - Source at (-1, 4) - 1000V - Trigger 15mV.
+PMT 22 (gel) - PMT 25 (no gel) - PMT 2 - Run 1885 - Source at (0, 4) - 1000V - Trigger 15mV.
+PMT 22 (gel) - PMT 25 (no gel) - PMT 2 - Run 1886 - Source at (1, 4) - 1000V - Trigger 15mV.
+PMT 22 (gel) - PMT 25 (no gel) - PMT 2 - Run 1887 - Source at (2, 4) - 1000V - Trigger 15mV.

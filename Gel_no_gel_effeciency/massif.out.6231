@@ -1,0 +1,83 @@
+desc: (none)
+cmd: root Take_all_runs.cpp
+time_unit: i
+#-----------
+snapshot=0
+#-----------
+time=0
+mem_heap_B=0
+mem_heap_extra_B=0
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=1
+#-----------
+time=3016623
+mem_heap_B=72704
+mem_heap_extra_B=8
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=2
+#-----------
+time=3025871
+mem_heap_B=72735
+mem_heap_extra_B=17
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=3
+#-----------
+time=3028241
+mem_heap_B=72763
+mem_heap_extra_B=29
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=4
+#-----------
+time=3028601
+mem_heap_B=72791
+mem_heap_extra_B=41
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=5
+#-----------
+time=3030213
+mem_heap_B=72791
+mem_heap_extra_B=41
+mem_stacks_B=0
+heap_tree=peak
+n2: 72791 (heap allocation functions) malloc/new/new[], --alloc-fns, etc.
+ n1: 72704 0x5620424: ??? (in /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.25)
+  n1: 72704 0x40108D1: _dl_init (dl-init.c:72)
+   n1: 72704 0x40010C8: ??? (in /lib/x86_64-linux-gnu/ld-2.27.so)
+    n1: 72704 0x0: ???
+     n1: 72704 0x1FFF000379: ???
+      n0: 72704 0x1FFF00037E: ???
+ n0: 87 in 3 places, all below massif's threshold (1.00%)
+#-----------
+snapshot=6
+#-----------
+time=3030213
+mem_heap_B=72763
+mem_heap_extra_B=29
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=7
+#-----------
+time=3034027
+mem_heap_B=72732
+mem_heap_extra_B=20
+mem_stacks_B=0
+heap_tree=empty
+#-----------
+snapshot=8
+#-----------
+time=3050256
+mem_heap_B=28
+mem_heap_extra_B=12
+mem_stacks_B=0
+heap_tree=empty
